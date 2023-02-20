@@ -1,0 +1,21 @@
+{
+  "cpf": "84868375024",
+  "nome": "Ana",
+  "data_nascimento": "2022-08-01",
+  "enderecos": [
+    {
+      "logradouro": "APTO",
+      "cep": "92990000",
+      "numero": "50",
+      "cidade": "Ubirici",
+      "endereco_principal": true
+    },
+    {
+      "logradouro": "CASA",
+      "cep": "88036003",
+      "numero": "90",
+      "cidade": "Garopaba",
+      "endereco_principal": false
+    }
+  ]
+}
