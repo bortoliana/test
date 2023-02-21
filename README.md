@@ -9,10 +9,11 @@
  <li> Nome </li>
 <li> Data de nascimento
 <li> Endereço com; 
-    <li>  Lougradouro </li>
+   <p> <li>  Lougradouro </li>
     <li> CEP </li>
     <li> Número </li>
-    <li> Cidade </li>
+    <li> Cidade </li> </p>
+    
 # Foi utilizado: 
 <li> Banco de dados H2 </li>
 <li> JAVA 17 </li>
