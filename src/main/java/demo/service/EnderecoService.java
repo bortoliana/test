@@ -4,7 +4,6 @@ import demo.dto.EnderecoDTO;
 import demo.entities.EnderecoEntity;
 import demo.mapper.EnderecoMapper;
 import demo.repository.EnderecoRepository;
-import demo.repository.PessoaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
