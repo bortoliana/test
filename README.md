@@ -5,7 +5,8 @@
 <li> Criar endereço para pessoa </li> 
 <li> Listar endereços da pessoa </li>
 <li> Poder informar qual endereço é o principal da pessoa </li> 
- Uma pessoa deve ter: 
+
+# Uma pessoa deve ter: 
 <li> Nome </li>
 <li> Data de nascimento
  
