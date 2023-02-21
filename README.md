@@ -6,13 +6,16 @@
 <li> Listar endereços da pessoa </li>
 <li> Poder informar qual endereço é o principal da pessoa </li> 
  Uma pessoa deve ter: 
- <li> Nome </li>
+<li> Nome </li>
 <li> Data de nascimento
+ 
 <li> Endereço com; 
-   <p> <li>  Lougradouro </li>
+ <ul>
+   <li> <a> Lougradouro </li>
     <li> CEP </li>
     <li> Número </li>
-    <li> Cidade </li> </p>
+    <li> Cidade </li> 
+ </ul>
     
 # Foi utilizado: 
 <li> Banco de dados H2 </li>
